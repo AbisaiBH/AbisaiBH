@@ -1,16 +1,16 @@
-## Hi there 👋
+#🖥️ Hello World My Name Is Abisai 💻
 
-<!--
-**AbisaiBH/AbisaiBH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##📱 About Me:
+🔹 **Desarrollador/a [frontend/backend/fullstack/etc.]**  
+🔹 Apasionado/a por [tecnologías, temas de interés]  
+🔹 Actualmente trabajando en [proyecto/empresa]  
+🔹 Aprendiendo [tecnología/lenguaje nuevo] 
 
-Here are some ideas to get you started:
+##🚀 Language & Tools
+🔹 **Desarrollador/a [frontend/backend/fullstack/etc.]**  
+🔹 Apasionado/a por [tecnologías, temas de interés]  
+🔹 Actualmente trabajando en [proyecto/empresa]  
+🔹 Aprendiendo [tecnología/lenguaje nuevo] 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🫂 Contact with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abisai-briones-584566242/)   
